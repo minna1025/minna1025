@@ -4,7 +4,7 @@
 
   <br/>
 
-#### 🛠 Languages and Tools 🛠 
+### 🛠 Languages and Tools 🛠 
 
   <br/>
 
@@ -31,7 +31,7 @@
 
 <br/>
 
-####### 뇸뇸뇸, 뱀에게 먹이를 많이 주자!! 🌱 🐍  
+###### 뇸뇸뇸, 뱀에게 먹이를 많이 주자!! 🌱 🐍  
   
 ![Snake animation](https://github.com/minna1025/minna1025/blob/main/contribution_snk.svg)
 
