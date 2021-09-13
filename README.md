@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-<p align="left">
+<p align="left" style="display:inline-block; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=minna1025&show_icons=true&theme=radical"/>
 </p>
 
