@@ -1,7 +1,4 @@
-<!---
-Please consider starring the repo if you find this useful in any manner
-or use it. It helps me a lot.
--->
+
 <h1>&lt;👋Hello, World&excl;&sol;&gt;</h1>
 
 <br/>
@@ -22,6 +19,6 @@ or use it. It helps me a lot.
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minna1025&layout=compact&theme=radical&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=minna1025&show_icons=true&locale=en&theme=radical&count_private=true" alt="minna1025" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=minna1025&show_icons=true&locale=en&theme=radical&count_private=true" alt="minna1025" />
   </a>
 </p>
