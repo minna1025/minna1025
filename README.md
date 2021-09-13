@@ -15,14 +15,12 @@
   <br/>
   <br/>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minna1025&layout=compact&theme=radical&count_private=true"/>
-</p>
-
-<br/>
-<br/>
-
-<p align="left" style="display:inline-block; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=minna1025&show_icons=true&theme=radical"/>
-</p>
+<ul>
+  <li style="list-style:none;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minna1025&layout=compact&theme=radical&count_private=true" />
+  </li>
+  <li>
+    <img src="https://github-readme-stats.vercel.app/api?username=minna1025&show_icons=true&theme=radical" />
+  </li>
+</ul>
 
