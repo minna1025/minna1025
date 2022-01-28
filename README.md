@@ -27,7 +27,7 @@
  
 ![Minna's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minna1025&layout=compact&theme=radical&count_private=true)
 
-![Minna's GitHub stats](https://github-readme-stats.vercel.app/api?username=minna1025&show_icons=true&theme=radical)
+![Minna's GitHub stats](https://github-readme-stats.vercel.app/api?username=minna1025&show_icons=true&theme=radical&hide=contribs,issues)
 
 <br/>
 
